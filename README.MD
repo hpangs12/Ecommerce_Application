@@ -1,0 +1,15 @@
+# Ecommerce-Application
+The main Repository for the Ecommerce Application.
+
+Please find the Microservices Repositories + Front-End Repository inside this Repository.
+
+## Included Projects
+
+| Microservice           | Responsibility                                      |
+|------------------------|-----------------------------------------------------|
+| **[Product Microservice](https://github.com/hpangs12/ProductMS)** | Product and Inventory Management Service           |
+| **[User Microservice](https://github.com/hpangs12/UserMS)**    | User Management and Authentication Service         |
+| **[Review Microservice](https://github.com/hpangs12/ReviewMS)**  | Reviews Management Service                         |
+| **[Orders Microservice](https://github.com/hpangs12/OrdersMS)**  | Order and Checkout Management Service              |
+| **[Payments Microservice](https://github.com/hpangs12/PaymentMS)**| Payment Management Service                          |
+
