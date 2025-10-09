@@ -3,6 +3,10 @@ The main Repository for the Ecommerce Application.
 
 Please find the Microservices Repositories + Front-End Repository inside this Repository.
 
+## Included Projects (FrontEnd)
+
+**[Ecom Application (Front-End)](https://github.com/hpangs12/EcomFrontEnd)**| Ecom Application (React.js)
+
 ## Included Projects (Backend)
 
 | Microservice           | Responsibility                                      |
@@ -14,9 +18,4 @@ Please find the Microservices Repositories + Front-End Repository inside this Re
 | **[Review Microservice](https://github.com/hpangs12/ReviewMS)**  | Reviews Management Service                         |
 | **[Orders Microservice](https://github.com/hpangs12/OrdersMS)**  | Order and Checkout Management Service              |
 | **[Payments Microservice](https://github.com/hpangs12/PaymentMS)**| Payment Management Service                          |
-
-## Included Projects (FrontEnd)
-
-**[Ecom Application (Front-End)](https://github.com/hpangs12/EcomFrontEnd)**| Ecom Application (React.js)
-
 
