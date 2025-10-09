@@ -16,7 +16,7 @@ Please find the Microservices Repositories + Front-End Repository inside this Re
 | **[Payments Microservice](https://github.com/hpangs12/PaymentMS)**| Payment Management Service                          |
 
 ## Included Projects (FrontEnd)
------------------------------------------------------------------------------------
+
 **[Ecom Application (Front-End)](https://github.com/hpangs12/EcomFrontEnd)**| Ecom Application (React.js)
 
 
