@@ -7,8 +7,8 @@ Please find the Microservices Repositories + Front-End Repository inside this Re
 
 | Microservice           | Responsibility                                      |
 |------------------------|-----------------------------------------------------|
-| **[Discovery Service](https://github.com/hpangs12/PaymentMS)**| Discovery Service                          |
-| **[Gateway Service](https://github.com/hpangs12/PaymentMS)**| API Gateway Service                          |
+| **[Discovery Service](https://github.com/hpangs12/EcomDiscovery)**| Discovery Service                          |
+| **[Gateway Service](https://github.com/hpangs12/EcomGateway)**| API Gateway Service                          |
 | **[Product Microservice](https://github.com/hpangs12/ProductMS)** | Product and Inventory Management Service           |
 | **[User Microservice](https://github.com/hpangs12/UserMS)**    | User Management and Authentication Service         |
 | **[Review Microservice](https://github.com/hpangs12/ReviewMS)**  | Reviews Management Service                         |
