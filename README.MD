@@ -19,3 +19,11 @@ Please find the Microservices Repositories + Front-End Repository inside this Re
 | **[Orders Microservice](https://github.com/hpangs12/OrdersMS)**  | Order and Checkout Management Service              |
 | **[Payments Microservice](https://github.com/hpangs12/PaymentMS)**| Payment Management Service                          |
 
+## Planned Updates:
+- Implement Admin Pages.
+- Replace the dummy implementation for the checkout feature.
+- Perform Front-End code cleanup and possibly a design revamp.
+- Implement the security feature for the front end and the API gateway.<br>
+Note: Only security we have is the service methods querying the UserMS to validate the token for operations that require authentication.
+  
+
